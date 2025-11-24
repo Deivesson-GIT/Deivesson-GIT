@@ -6,6 +6,7 @@ Sou alguém que gosta de tecnologia, aprendizado contínuo e novos desafios.
 -  Atualmente trabalhando em: projetos pessoais e estudos
 -  Aprendendo: Python, JavaScript e Git
 -  Pergunte-me sobre: o que quiser!
+-  Projeto:
 
 ## Tecnologias que uso
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
